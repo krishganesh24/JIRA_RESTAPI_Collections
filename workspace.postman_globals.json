@@ -1,0 +1,68 @@
+{
+	"id": "612b3af7-38da-445c-81cd-411f35b42912",
+	"values": [
+		{
+			"key": "Hostname",
+			"value": "dev131709.service-now.com",
+			"enabled": false
+		},
+		{
+			"key": "Hostname",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "sysid",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "ShortDecs",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "Desc",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "projectName",
+			"value": "AUG",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Issue id",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "IssueID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Issue id",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "IssueType",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-08-22T11:39:31.936Z",
+	"_postman_exported_using": "Postman/9.29.3"
+}
